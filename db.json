@@ -1,18 +1,10 @@
 {
-  "api": [
+  "station": [
     {
-      "station": [
-        {
-          "configuration": [
-            {
-              "id": "station1",
-              "name": "station1",
-              "plannerGroup": "DD",
-              "sqlToFile": true
-            }
-          ]
-        }
-      ]
+      "id": "station1",
+      "name": "station1",
+      "plannerGroup": "DD",
+      "sqlToFile": true
     }
   ],
   "posts": [
