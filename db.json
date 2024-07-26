@@ -2,7 +2,7 @@
   "station": [
     {
       "id": "station1",
-      "plannerGroup": "DD",
+      "plannerGroups": "DD;CC",
       "sqlToFile": false,
       "autoSendDirectory": "",
       "autoWorkDirectory": "",
