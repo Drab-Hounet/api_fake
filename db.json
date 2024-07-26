@@ -16,6 +16,22 @@
       "odSendDirectory": ""
     }
   ],
+  "test": [
+    {
+      "name": "station1",
+      "plannerGroup": "DD",
+      "sqlToFile": false,
+      "autoSendDirectory": "",
+      "autoWorkDirectory": "",
+      "autoSynchroFilename": "",
+      "autoRecipeDirectory": "",
+      "autoRecipeDirectoryBackup": "",
+      "odRecipeDirectory": "",
+      "odRecipeFilename": "",
+      "odSendFilename": "",
+      "odSendDirectory": ""
+    }
+  ],
   "posts": [
     {
       "id": 1,
