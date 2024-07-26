@@ -4,7 +4,16 @@
       "id": "station1",
       "name": "station1",
       "plannerGroup": "DD",
-      "sqlToFile": true
+      "sqlToFile": false,
+      "autoSendDirectory": "",
+      "autoWorkDirectory": "",
+      "autoSynchroFilename": "",
+      "autoRecipeDirectory": "",
+      "autoRecipeDirectoryBackup": "",
+      "odRecipeDirectory": "",
+      "odRecipeFilename": "",
+      "odSendFilename": "",
+      "odSendDirectory": ""
     }
   ],
   "posts": [
